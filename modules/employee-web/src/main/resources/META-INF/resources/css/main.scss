@@ -1,0 +1,27 @@
+.form-heading {
+	font-weight: 700;
+	font-family: 'Poppins';
+}
+
+.employee-form-input-field {
+	height: 62px;
+}
+
+.custom-btn {
+	background-color: #00979E;
+	color: white;
+	width: 193px;
+}
+
+.custom-btn {
+	background-color: #00979E !important;
+	color: white !important;
+	width: 193px;
+	border: none;
+}
+
+.custom-btn:hover, .custom-btn:focus, .custom-btn:active {
+	background-color: #00979E !important;
+	color: white !important;
+	border: none;
+}
